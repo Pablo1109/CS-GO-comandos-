@@ -1,23 +1,4 @@
-# CliCK Jogos da DeepWeb-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Jogos</title>
-  </head>
-  <body>
-    <h1>Bem-vindo ao nosso site de jogos</h1>
-    <nav>
-      <ul>
-        <li><a href="#jogo-da-velha">Jogo da Velha</a></li>
-        <li><a href="#xadrez">Xadrez</a></li>
-        <li><a href="#tiro-ao-alvo">Tiro ao Alvo</a></li>
-        <li><a href="#roleta-da-sorte">Roleta da Sorte</a></li>
-      </ul>
-    </nav>
-    <h2 id="jogo-da-velha">Jogo da Velha</h2>
-    
-    
-    
-      // <!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
   <head>
     <style>
@@ -121,9 +102,6 @@
         
         currentPlayer = "X";
       }
-    </script>
-  </body>
-</html>
     </script>
   </body>
 </html>
