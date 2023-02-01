@@ -14,14 +14,6 @@
       </ul>
     </nav>
     <h2 id="jogo-da-velha">Jogo da Velha</h2>
-    <p>Conteúdo do jogo da velha aqui</p>
-    <h2 id="xadrez">Xadrez</h2>
-    <p>Conteúdo do jogo de xadrez aqui</p>
-    <h2 id="tiro-ao-alvo">Tiro ao Alvo</h2>
-    <p>em processo</p>
-    <h2 id="roleta-da-sorte">Roleta da Sorte</h2>
-    <p>em processo</p>
-    <script>
       // <!DOCTYPE html>
 <html>
   <head>
